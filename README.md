@@ -11,10 +11,9 @@ The directories are ordered to create a consistent historical record.
 
 Each directory contains the following information:
 
-- Directory **"prompts"**:  
-  contains:
-  - File **"initial_prompt.md"**: the prompt used in the test.  
-  - File **"final_prompt.md"**: the prompt obtained after the modifications.  
+- Directory **"prompts"**:
+  - File **"initial_prompt.md"**: the prompt used in the test.
+  - File **"final_prompt.md"**: the prompt obtained after the modifications.
   - File **"diff_prompt.md"**: the differences between the initial and final prompts.
 
 - File **"interaction.jsonl"**:  
