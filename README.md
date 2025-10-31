@@ -1,6 +1,6 @@
 # Description
 
-This repository contains the tests carried out to optimize the initial instruction prompt provided to gpt-realtime.  
+This repository contains the tests carried out to optimize the initial instruction prompt provided to **gpt-realtime**.  
 The final goal is to obtain a valid prompt for the following use case:  
 gpt-realtime must correctly and appropriately answer spoken questions related to the loaded tactile drawing.
 
