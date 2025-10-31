@@ -17,7 +17,7 @@ Each directory contains the following information:
   - File **"diff_prompt.md"**: the differences between the initial and final prompts.
 
 - File **"interaction.jsonl"**:  
-  contiene i messaggi scambiati tra utente e LLM durante l'interazione.
+  contains the messages exchanged between the user and the LLM during the interaction.
 
 - File **.camio** (rename the extension to .zip to view its contents):  
   contains the drawing information that is passed to the LLM at the beginning of the interaction through dedicated messages.
