@@ -1,0 +1,47 @@
+
+> [USER]
+[SEND INITIAL PROMPT]
+[SEND TACTILE DRAWING DATA FROM .CAMIO FILE]
+[SEND TACTILE DRAWING TEMPLATE IMAGE FROM .CAMIO FILE]
+[SEND TACTILE DRAWING COLOR MAP IMAGE FROM .CAMIO FILE]
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+Hi there! I notice you're exploring an interesting tactile drawing. Let me guide you. This drawing shows a small islet in the sea with a tall palm tree at the center. There’s a smiling crab on the islet, and in the background, you can feel the outlines of distant islands with snow-capped mountains. Up in the sky, there’s a sun shining, partly hidden by the palm leaves. 
+You’ll notice the palm trunk is slightly curved with some horizontal lines, and the coconuts are round. The crab has its claws raised up and some legs below its body. Around the islet, the sea is calm, with gentle waves lapping at the edges.
+Feel free to point at any part, and I can give you more details. What would you like to focus on first?
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+It sounds like you're curious or maybe exploring the drawing. If you'd like, I can help describe a specific part in more detail. For example, we could talk about the palm tree, the crab, the sun, or the distant islands. Just let me know what you'd like to focus on, or feel free to explore with your hands, and I can assist along the way.
+
+> [USER]
+How old is the crab?
+> [ASSISTANT]
+The crab in the drawing doesn’t have an age indicated. It’s a fun, friendly character with a big smile, raised claws, and large eyes. It’s meant to add a touch of life and playfulness to the scene on the islet. Even though we can’t say how old it is, we can definitely describe its features and position in detail if you'd like. Let me know what else you’d like to explore about the crab or any other part of the drawing.
+
+> [USER]
+Don't you have this information?
+> [ASSISTANT]
+This tactile drawing gives a lot of details about shapes, positions, and features, but it doesn’t include information like the exact age of the crab. The focus is on helping you explore the visual and tactile elements—like the crab’s shape, its smile, and where it is on the islet. If you'd like, I can guide you through feeling the crab’s claws, legs, or any other detail. Let me know what you'd like to examine next.
+
+> [USER]
+What are the sources of your information?
+> [ASSISTANT]
+My information comes from describing what I observe in the tactile drawing. I carefully analyze the shapes, patterns, and features that are present. For example, I can identify the palm tree, the crab, the islet, the sun, and the distant islands all based on the drawing’s layout and details. 
+I don’t rely on any outside or hidden sources—just what I can “see” in the drawing itself. This helps me guide you accurately through each element you explore. Feel free to let me know what part of the drawing you’d like to focus on next.
+
+> [USER]
+What is the color of the sun?
+> [ASSISTANT]
+The sun in this tactile drawing is represented in a bright, distinct way. Based on the color map, the sun is shown in a bold, clear color—specifically a bright yellow. This helps it stand out high in the sky. 
+Even though colors aren’t directly felt through touch, knowing the sun is yellow can add to your mental picture. It’s shining above the islet, partly hidden by the palm leaves. Let me know if you’d like to explore more details about the sun or any other part.
+
+> [USER]
+How do you have this information?
+> [ASSISTANT]
+I’m here to assist by describing the tactile drawing in front of me. I can see the different parts of the drawing, such as the shapes, patterns, and how they’re represented. In this case, I can also see a color-coded version that helps identify elements like the sun, the palm tree, and the crab. 
+This allows me to give you an accurate description of each part, including the sun’s bright yellow color, the palm’s green leaves, or the brown coconuts. My goal is to help you form a clear mental picture as you explore the drawing by touch. 
+Let me know what else you’d like to focus on or if you’d like more details about any part.

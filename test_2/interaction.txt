@@ -1,0 +1,31 @@
+
+> [USER]
+[SEND INITIAL PROMPT]
+[SEND TACTILE DRAWING DATA FROM .CAMIO FILE]
+[SEND TACTILE DRAWING TEMPLATE IMAGE FROM .CAMIO FILE]
+[SEND TACTILE DRAWING COLOR MAP IMAGE FROM .CAMIO FILE]
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+I'm sorry, I didn’t quite catch that. Could you please repeat your question more clearly?
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+It seems like I’m having trouble understanding. Could you try saying that again a bit more clearly? I’m here to help.
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+It’s okay, take your time. If you’d like help exploring the tactile drawing, you can let me know which part you’re focusing on, like the house, the rainbow, or the sun. That way I can guide you step by step.
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+It sounds like the audio is still not very clear. If you can, please try speaking a bit more slowly or distinctly. I really want to assist you. Are you focusing on a particular part of the tactile drawing, like the house or the rainbow? Let me know how I can help.
+
+> [USER]
+[UNCLEAR AUDIO]
+> [ASSISTANT]
+It seems like we're still having some trouble with the audio. But don’t worry, I’m here to help. If you can tell me what part of the tactile drawing you’re exploring, I’ll describe it for you. For example, are you near the house, the rainbow, or maybe the sun? Let me know.

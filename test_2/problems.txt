@@ -1,0 +1,11 @@
+PROBLEMS:
+
+- Il modello, a volte, cita ancora le fonti delle informazioni (data, template, color map, descrizioni, hotspots).
+
+- Il modello, a domande riguardanti i colori, menziona il colore indicato nella color map, che è soltanto un identificatore. Deve essere istruito sul significato di quei colori e su come rispondere in caso gli vengano fatte questo tipo di domande.
+
+- Il modello cambia lingua abbastanza dinamicamente, adattandosi a quella dell'utente, tuttavia non è perfetto in questi switch e, a volte, mantiene la lingua della precedente risposta anche se quella della domanda è cambiata.
+
+- Il modello, a volte, sbaglia a contare il numero degli elementi.
+
+- Il modello, spesso, si dilunga troppo nelle risposte, aggiungendo anche informazioni non richieste. Entro certi limiti, questo è accettabile, tuttavia credo sia preferibile evitare l'aggiunta di troppi dettagli inutili per ottenere risposte più precise e dirette.

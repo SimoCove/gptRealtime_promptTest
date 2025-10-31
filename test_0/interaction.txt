@@ -1,0 +1,93 @@
+
+> [USER]
+[SEND INITIAL PROMPT]
+[SEND TACTILE DRAWING DATA FROM .CAMIO FILE]
+[SEND TACTILE DRAWING TEMPLATE IMAGE FROM .CAMIO FILE]
+[SEND TACTILE DRAWING COLOR MAP IMAGE FROM .CAMIO FILE]
+
+> [USER]
+Hello.
+> [ASSISTANT]
+Hi there! I see you're exploring a tactile drawing of a small islet. Would you like me to guide you through the details? Let me know where you'd like to start.
+
+> [USER]
+Tell me the capital of Italy.
+> [ASSISTANT]
+The capital of Italy is Rome. It's a city with a rich history, known for landmarks like the Colosseum, the Vatican, and many more. If you’d like any more information about it, feel free to ask.
+
+> [USER]
+Describe the drawing very quickly.
+> [ASSISTANT]
+Sure! This tactile drawing shows a small islet in the sea, with a palm tree in the center. The palm has large leaves and coconuts. There’s a smiling crab on the islet. In the background, you can feel distant islands with snow-capped mountains. The sun is shining high in the sky, partly hidden by the palm tree. The sea around the islet is calm with gentle waves. That’s the quick overview!
+
+> [USER]
+Ho do you know?
+> [ASSISTANT]
+I know because I'm using the tactile drawing's data and image details. The drawing has labels and descriptions for each part—like the palm tree, the crab, the islet, and the sun. By combining that information with what I see in the drawing, I can help guide you through it step by step. If you'd like more details about any specific part, just let me know.
+
+> [USER]
+Di che colore è il sole?
+> [ASSISTANT]
+Il sole nel disegno tattile è di un colore giallo brillante. È ben visibile in alto a sinistra, con i raggi che si estendono tutto intorno. Anche se una parte è parzialmente nascosta dietro la palma, il colore distintivo è proprio il giallo.
+
+> [USER]
+Come lo sai?
+> [ASSISTANT]
+Lo so perché sto usando una mappa a colori del disegno tattile. Ogni elemento è colorato in modo diverso per aiutare a identificarlo. Il sole, ad esempio, è colorato di giallo, la palma ha foglie verdi, il mare è blu, e così via. Questa combinazione di informazioni visive e descrizioni testuali mi permette di guidarti mentre esplori il disegno. Se vuoi, possiamo concentrarci su altre parti e scoprirle insieme.
+
+> [USER]
+Comment tu t'appelles?
+> [ASSISTANT]
+Je suis l’assistant CamIO, là pour t’aider à explorer et comprendre les dessins tactiles. N’hésite pas à me demander ce que tu veux, je suis là pour toi.
+
+> [USER]
+How many palm leaves?
+> [ASSISTANT]
+Dans le dessin, il y a sept grandes feuilles de palmier qui s’étendent depuis le sommet du tronc. Elles sont larges, courbées vers le bas, et chacune a une forme distincte. Si tu explores la partie supérieure de la paume, tu pourras les sentir une à une.
+
+> [USER]
+In english, please.
+> [ASSISTANT]
+Sure! In the drawing, there are seven large palm leaves extending from the top of the trunk. They’re wide, arching downwards, and each has a distinct shape. If you explore the upper part of the palm, you can feel them one by one.
+
+> [USER]
+Where is the sun?
+> [ASSISTANT]
+The sun is located in the upper left part of the drawing. It's shining high in the sky, and it's partially hidden behind the top leaves of the palm tree. You can feel its rays extending outward, and it has a round shape. So if you start from the palm leaves and move to the top left, you'll find the sun.
+
+> [USER]
+E quanti raggi ha?
+> [ASSISTANT]
+Il sole nel disegno ha undici raggi. Si estendono tutto intorno al cerchio centrale, come piccole linee che partono dalla superficie del sole. Alcuni di questi raggi sono ben visibili e facilmente distinguibili, anche se una parte del sole è parzialmente nascosta dietro le foglie della palma.
+
+> [USER]
+Are there any animals?
+> [ASSISTANT]
+Sì, c'è un animale nel disegno: un granchio. Il granchio è sull’isolotto, vicino al tronco della palma. Ha due grandi chele sollevate e un bel sorriso. Ha anche due grandi occhi in alto sulla testa e sei piccole zampette sotto il corpo.
+
+> [USER]
+How many legs does it have in total?
+> [ASSISTANT]
+The crab in the drawing has a total of eight legs. It has six smaller legs under its body, plus the two raised claws, which count as its front legs. So altogether, that makes eight.
+
+> [USER]
+What is its color?
+> [ASSISTANT]
+The crab’s color in the drawing is bright pink. It stands out clearly against the yellow islet and the blue sea. This helps make it easy to identify and explore by touch.
+
+> [USER]
+CamIO start.
+> [ASSISTANT]
+[CALLED FUNCTION WAKE_WORD AND AUDIO RESPONSES ENABLED]
+Audio is now on. I'm here to help you in real-time with the drawing or any other questions.
+
+> [USER]
+CamIO stop.
+> [ASSISTANT]
+[CALLED FUNCTION SLEEP_WORD AND AUDIO RESPONSES DISABLED]
+[AUDIO FEEDBACK] Audio has been turned off. If you need anything else, just let me know.
+
+> [USER]
+Cosa c'è nella parte più in alto a destra possibile dell'intero foglio?
+> [ASSISTANT]
+Nella parte più in alto a destra del foglio, non c’è un elemento principale molto marcato. La maggior parte delle forme importanti – come il sole e le foglie della palma – si trovano più verso il centro o leggermente a sinistra. In quell’angolo in alto a destra, trovi solo una parte del cielo vuoto, senza dettagli significativi. È uno spazio libero, dove non sono presenti oggetti o texture rilevanti nel disegno tattile. Se vuoi esplorare qualche altro punto specifico, sono qui per guidarti.

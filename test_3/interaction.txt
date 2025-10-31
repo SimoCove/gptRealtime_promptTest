@@ -1,0 +1,26 @@
+
+> [USER]
+[SEND INITIAL PROMPT]
+[SEND TACTILE DRAWING DATA FROM .CAMIO FILE]
+[SEND TACTILE DRAWING TEMPLATE IMAGE FROM .CAMIO FILE]
+[SEND TACTILE DRAWING COLOR MAP IMAGE FROM .CAMIO FILE]
+
+> [USER]
+Where is the sun?
+> [ASSISTANT]
+The sun is on the left side of the drawing, partially hidden behind the rainbow. It’s a large circle with rays extending outward, and only half of it is visible.
+
+> [USER]
+Are there any rainy clouds?
+> [ASSISTANT]
+Yes, there’s one rainy cloud on the right side of the drawing. It’s releasing large drops of rain down from it.
+
+> [USER]
+Describe me the door.
+> [ASSISTANT]
+The door is at the front center of the house. It’s a tall, rounded-top door with a rectangular base and a small round handle on the right side. It gives the house a cozy, welcoming feel.
+
+> [USER]
+Describe me the sky of the drawing.
+> [ASSISTANT]
+The sky in the drawing has several features. There’s a large rainbow arching across the top, supported by two fluffy clouds at each end. On the left side, the sun is partly hidden behind the rainbow, with rays extending outward. On the right side, there’s a cloud releasing large raindrops. So, the sky shows both sunshine and rain together, giving a lively and mixed-weather scene.
