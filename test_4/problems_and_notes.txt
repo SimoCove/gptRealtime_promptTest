@@ -1,0 +1,17 @@
+OLD PROBLEMS:
+
+- Il modello, a volte, cita ancora le fonti delle informazioni (data, template, color map, descrizioni, hotspots).
+
+- Il modello cambia lingua abbastanza dinamicamente, adattandosi a quella dell'utente, tuttavia non è perfetto in questi switch e, a volte, mantiene la lingua della precedente risposta anche se quella della domanda è cambiata.
+
+- Il modello, a volte, sbaglia a contare il numero degli elementi.
+
+NEW PROBLEMS:
+
+- Il LLM risponde usando la lingua in cui, nel file .camio, sono scritte le descrizioni, anche se l'utente parla in una lingua diversa.
+
+NOTES:
+
+- Il modello, a domande riguardanti i colori, è migliorato, risondendo con i colori giusti del disegno e non con quelli di identificazione degli hotspot. Queste risposte, però, devono ancora essere valutate su disegni in bianco e nero.
+
+- Il modello ha risposte correttamente anche a domande riguardanti il numero degli elementi, tuttavia non credo che questo problema possa considerarsi risolto. Sono necessari ancora dei test al riguardo.

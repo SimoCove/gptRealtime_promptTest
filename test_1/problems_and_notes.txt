@@ -1,4 +1,4 @@
-PROBLEMS:
+OLD PROBLEMS:
 
 - Il modello, a volte, cita ancora le fonti delle informazioni (data, template, color map, descrizioni, hotspots).
 
@@ -8,6 +8,12 @@ PROBLEMS:
 
 - Il modello, a volte, sbaglia a contare il numero degli elementi.
 
+NEW PROBLEMS:
+
 - Il modello, spesso, si dilunga troppo nelle risposte, aggiungendo anche informazioni non richieste. Entro certi limiti, questo è accettabile, tuttavia credo sia preferibile evitare l'aggiunta di troppi dettagli inutili per ottenere risposte più precise e dirette.
 
 - Il modello, quando l'audio percepito non è chiaro, non chiede chiarimenti, ma propone invece una breve descrizione del disegno chiedendo all'utente cosa vuole sapere. Credo sarebbe meglio gestire questo caso in modo più definito, facendo sì che il LLM dica esplicitamente che l'audio non è chiaro.
+
+NOTES:
+
+- Il modello, seppur sia migliorato, ancora cita le fonti delle informazioni se gli viene chiesto (quali color map, ecc.). Sarebbe preferibile che non lo facesse e che si limitasse a rispondere che le informazioni le prende dall'osservazione del disegno (a meno che gli vengano esplicitamente menzionate le fonti, ad esempio, "Vedi una color map?").

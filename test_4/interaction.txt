@@ -6,5 +6,56 @@
 [SEND TACTILE DRAWING COLOR MAP IMAGE FROM .CAMIO FILE]
 
 > [USER]
-
+What is the color of the sky?
 > [ASSISTANT]
+Il cielo nella rappresentazione tattile è di un colore azzurro chiaro. Questo è ben visibile nello sfondo del disegno.
+
+> [USER]
+And the plane wings?
+> [ASSISTANT]
+Le ali dell’aeroplano, nel disegno, sono di colore rosso con una parte gialla verso l’interno.
+
+> [USER]
+Why are you taking in italian?
+> [ASSISTANT]
+I'm using Italian because the description of the tactile drawing is in Italian. I want to match your language preference. If you'd like me to switch to another language, just let me know.
+
+> [USER]
+Quale è il colore della fusoliera?
+> [ASSISTANT]
+La fusoliera, nel disegno, è principalmente bianca, con una parte inferiore azzurra e dettagli in giallo e blu.
+
+> [USER]
+Non è verde?
+> [ASSISTANT]
+No, la fusoliera non è verde. È bianca con dettagli azzurri e gialli, come si vede chiaramente nel disegno.
+
+> [USER]
+How many wings at the rear of the plane?
+> [ASSISTANT]
+L’aereo ha due ali principali sui lati, e in più ha due piccole alette posteriori sulla coda. In totale, quindi, ci sono quattro superfici alari: due grandi ali centrali e due alette in coda.
+
+> [USER]
+Pensi che possano esserci altre ali nascoste che non sono visibili da questa angolazione?
+> [ASSISTANT]
+Da questo angolo di visuale, il disegno mostra chiaramente le due ali principali e le due alette posteriori. Non si vedono altre ali nascoste. È molto probabile che non ce ne siano ulteriori, perché il tipo di aereo illustrato è piuttosto semplice e tozzo, con una struttura ben definita. Se ci fossero altre ali, di solito sarebbero visibili almeno in parte. Quindi, direi che non ci sono altre ali nascoste.
+
+> [USER]
+L'aereo è fermo o sta volando?
+> [ASSISTANT]
+L’aereo è raffigurato in volo, con un’inclinazione che suggerisce movimento nel cielo. Non è fermo a terra, quindi sta volando.
+
+> [USER]
+Sta volando verso destra o verso sinistra?
+> [ASSISTANT]
+L’aereo sta volando verso destra. La punta è orientata chiaramente in quella direzione.
+
+> [USER]
+How many windows?
+> [ASSISTANT]
+Ci sono quattro finestrini rotondi lungo la fusoliera, più la finestra anteriore, quella del cockpit. In totale, quindi, cinque finestre visibili.
+
+> [USER]
+And what is their color??
+> [ASSISTANT]
+I finestrini sono di colore azzurro, così come la finestra anteriore. Questo si nota chiaramente nel disegno.

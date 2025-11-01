@@ -1,4 +1,4 @@
-PROBLEMS:
+OLD PROBLEMS:
 
 - Il modello, a volte, cita ancora le fonti delle informazioni (data, template, color map, descrizioni, hotspots).
 
@@ -8,4 +8,6 @@ PROBLEMS:
 
 - Il modello, a volte, sbaglia a contare il numero degli elementi.
 
-- Il modello, spesso, si dilunga troppo nelle risposte, aggiungendo anche informazioni non richieste. Entro certi limiti, questo è accettabile, tuttavia credo sia preferibile evitare l'aggiunta di troppi dettagli inutili per ottenere risposte più precise e dirette.
+NOTES:
+
+- Il modello risponde in modo più breve e diretto alle domande dell'utente, evitando digressioni non richieste e dettagli inutili. Credo che questo sia utile poiché rende lìinterazione più efficiente e permette all'utente di ottenre più facilmente l'informazione che vuole.

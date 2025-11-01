@@ -21,5 +21,5 @@ Each directory contains the following information:
 - File **.camio** (rename the extension to .zip to view its contents):  
   contains the drawing information that is passed to the LLM at the beginning of the interaction through dedicated messages.
 
-- File **"problems.txt"**:  
-  contains the description of the issues encountered during the test.
+- File **"problems_and_notes.txt"**:  
+  contains the description of the issues encountered during the test and some notes about it.

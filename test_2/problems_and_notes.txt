@@ -1,4 +1,4 @@
-PROBLEMS:
+OLD PROBLEMS:
 
 - Il modello, a volte, cita ancora le fonti delle informazioni (data, template, color map, descrizioni, hotspots).
 
@@ -7,3 +7,9 @@ PROBLEMS:
 - Il modello cambia lingua abbastanza dinamicamente, adattandosi a quella dell'utente, tuttavia non è perfetto in questi switch e, a volte, mantiene la lingua della precedente risposta anche se quella della domanda è cambiata.
 
 - Il modello, a volte, sbaglia a contare il numero degli elementi.
+
+- Il modello, spesso, si dilunga troppo nelle risposte, aggiungendo anche informazioni non richieste. Entro certi limiti, questo è accettabile, tuttavia credo sia preferibile evitare l'aggiunta di troppi dettagli inutili per ottenere risposte più precise e dirette.
+
+NOTES:
+
+- Il modello è migliorato nelle risposte ad audio non chiaro. Ora non fornisce più descrizioni generiche non richieste, ma si limita a chiedere chiarimenti, specificando che l'audio non era chiaro.
